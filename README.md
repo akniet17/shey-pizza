@@ -24,11 +24,11 @@ This is a web application built using the MERN (MongoDB, Express, React, Node.js
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/username/pizza-website.git
-2. Install dependencies: npm install
-3. Start the server: npm start
-4. Start the client: cd client && npm start
-5. Open your web browser and navigate to http://localhost:3000
+
+1. Install dependencies: npm install
+2. Start the server: npm start
+3. Start the client: cd client && npm start
+4. Open your web browser and navigate to http://localhost:3000
 
 
 ## License
